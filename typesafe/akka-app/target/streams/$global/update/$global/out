@@ -1,0 +1,452 @@
+[0m[[0minfo[0m] [0mUpdating {file:/media/home/if/workspace_scala/typesafe/akka-app/}akka-app...[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: org.typesage#akka-app_2.9.2;0.1-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/dotnot/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by sbt-chain): /home/dotnot/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0msbt-chain: no latest strategy defined: using default[0m
+[0m[[0mdebug[0m] [0mlocal: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/dotnot/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by sbt-chain): /home/dotnot/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0m	checking org.scala-lang#scala-library;2.9.2 from sbt-chain against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.scala-lang#scala-library;2.9.2 from sbt-chain[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m	using sbt-chain to resolve com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-actor;2.0.1 {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.typesafe.akka#akka-actor;2.0.1: res=/home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0mTypesafe Releases: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Releases: found md file for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m		=> http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom (2.0.1)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@5412a54b[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom ...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp6105352898820581296sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor;2.0.1!akka-actor.pom(pom.original) (317ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.typesafe.akka#akka-actor;2.0.1: res=/home/dotnot/.ivy2/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for com.typesafe.akka#akka-actor;2.0.1; parsed=com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	checking com.typesafe.akka#akka-actor;2.0.1 from Typesafe Releases against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: com.typesafe.akka#akka-actor;2.0.1 from Typesafe Releases[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor;2.0.1 in Typesafe Releases[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mcompile is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime[0m
+[0m[[0mdebug[0m] [0mruntime is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test[0m
+[0m[[0mdebug[0m] [0mtest is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=provided[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=optional[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=compile-internal[0m
+[0m[[0mdebug[0m] [0mcompile-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=runtime-internal[0m
+[0m[[0mdebug[0m] [0mruntime-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.2 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies com.typesafe.akka#akka-actor;2.0.1->org.scala-lang#scala-library;2.9.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.typesage#akka-app_2.9.2;0.1-SNAPSHOT->com.typesafe.akka#akka-actor;2.0.1 [compile->master][0m
+[0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=test-internal[0m
+[0m[[0mdebug[0m] [0mtest-internal is loaded and no conf to load.  Skip loading[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=plugin[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=sources[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=docs[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0mloadData of org.typesage#akka-app_2.9.2;0.1-SNAPSHOT of rootConf=pom[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/dotnot/.ivy2/cache/resolved-org.typesage-akka-app_2.9.2-0.1-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.1.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp3629881685217483789sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor;2.0.1!akka-actor.jar (5827ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 940ms :: artifacts dl 5830ms[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT compile produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-compile.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT runtime produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-runtime.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT test produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-test.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT provided produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-provided.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT optional produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-optional.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT compile-internal produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT runtime-internal produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0[0m
+[0m[[0mdebug[0m] [0mSort done for : org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort dependencies of : com.typesafe.akka#akka-actor;2.0.1 / Number of dependencies = 1[0m
+[0m[[0mdebug[0m] [0mNon matching revision detected when sorting.  com.typesafe.akka#akka-actor depends on org.scala-lang#scala-library;2.9.1-1, doesn't match org.scala-lang#scala-library;2.9.2[0m
+[0m[[0mdebug[0m] [0mSort done for : com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT test-internal produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-test-internal.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT plugin produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-plugin.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT sources produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-sources.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT docs produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-docs.xml[0m
+[0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
+[0m[[0mdebug[0m] [0m	report for org.typesage#akka-app_2.9.2;0.1-SNAPSHOT pom produced in /home/dotnot/.ivy2/cache/org.typesage-akka-app_2.9.2-pom.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (940ms resolve - 5830ms download)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m

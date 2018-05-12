@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /home/dotnot/workspace_scala/forcomp/target/scala-2.9.2/progfun-forcomp_2.9.2-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/dotnot/workspace_scala/forcomp/src/main/scala/common/package.scala[0m
+[0m[[0mdebug[0m] [0m	forcomp/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/dotnot/workspace_scala/forcomp/src/main/scala/forcomp/package.scala[0m
+[0m[[0mdebug[0m] [0m	forcomp/Anagrams.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/dotnot/workspace_scala/forcomp/src/main/scala/forcomp/Anagrams.scala[0m
+[0m[[0mdebug[0m] [0m	forcomp/Main.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/dotnot/workspace_scala/forcomp/src/main/scala/forcomp/Main.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mRunning org.typesage.Akkaapp [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/media/home/if/workspace_scala/typesafe/akka-app/target/scala-2.9.2/classes[0m
+[0m[[0mdebug[0m] [0m	/home/dotnot/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/dotnot/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Akkaapp-akka.actor.default-dispatcher-2 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread Akkaapp-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Akkaapp-akka.actor.default-dispatcher-1 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread Akkaapp-akka.actor.default-dispatcher-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Akkaapp-akka.actor.default-dispatcher-4 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread Akkaapp-akka.actor.default-dispatcher-4 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Akkaapp-akka.actor.default-dispatcher-3 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread Akkaapp-akka.actor.default-dispatcher-3 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

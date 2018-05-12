@@ -1,0 +1,36 @@
+print("yo")
+println("yo")
+console
+compile
+test
+run
+compile
+run
+run example.Lists
+run Lists
+compile
+main
+scala
+console
+compile src/main/scala
+exit
+compile
+help
+console
+exit
+console
+test
+exit
+console
+run
+compile
+run
+run *
+run Main
+run Main*
+run Main.scala
+run example.Main
+test
+submit eugene.panaitov@gmail.com NTCeQGQTX5
+test
+exit

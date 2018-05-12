@@ -1,0 +1,676 @@
+28: Job Description
+27: Responsibilities
+23: What We Offer
+21: Flexible working hours
+19: Required Skills and Experience
+19: Competitive salary
+16: Health insurance, benefit package, company-sponsored conferences, vacations
+10: What Would Be a Plus
+9: Business trips to San Francisco/Bay Area
+8: Passion for innovation and creative problem solving
+8: Business trips to San Francisco / Bay Area
+8: Beautiful and well-equipped office located in the center of the city
+8: Work on bleeding-edge projects with highly-scalable e-Commerce stack, in a team of experienced and motivated developers and QA engineers
+7: Work on bleeding-edge projects with highly-scalable eCommerce stack, in a team of experienced and motivated developers and QA engineers
+6: Desired Skills &amp; Experience
+6: &nbsp;
+5: Create technical proposals and white papers for discussion with decision makers
+5: BA or MS in Computer Science, Electrical Engineering or related field from a leading university
+5: Experience in designing, documenting, and driving consensus around software architectures within your own teams and with your customers
+5: Ability to proactively identify engineering issues and coordinate resolution
+5: Exceptional problem solving skills and intellectual curiosity
+4: Comfort in working with globally distributed teams.
+4: Create, evaluate and select options for technology design
+4: Assist with technical sales process
+4: Work with engineering managers to estimate implementation effort and staffing
+4: Track record of creating successful (deployed to production) products or solutions
+4: Desired Skills and Experience
+4: Experience in development of complex engineering projects and delivering them into production
+4: Ability to supervise work of others and delegate tasks
+4: Communication skills and good knowledge of English
+4: Great interpersonal communication skills
+4: At least 5 years of experience in software development
+4: Develop personal relationships with engineering teams and customers
+4: 5-10 years of hands-on software engineering experience
+4: Job Description:
+3: Knowledge of high-performance web or enterprise applications, parallel processing or cloud computing
+3: Desire and ability for quick learning of new tools and technologies
+3: Experience of managing a small to medium team of developers
+3: Knowledge of basic administration of two out of three systems: Linux/Windows/Solaris
+3: Work with customers to understand business objectives and set goals for a specific project
+3: Background in financial applications, eCommerce, or infrastructures for high-traffic commercial web sites is a big plus
+3: Identify core engineering challenges and formulate problem statement
+3: Good interpersonal and communication skills
+3: Degree in Computer Science or equivalent, excellent theoretical knowledge in computer science: algorithms and evaluation of their complexity, data structures, operating systems, databases, programming languages
+3: Ability to work with DVCS (Git, Mercurial, Bazaar-NG)
+3: BA or MS in Computer Science, Electrical Engineering or related field from a leading university.
+3: Senior QA Automation Engineer
+3: High-energy atmosphere of a start-up
+3: Exceptional problem-solving skills and intellectual curiosity
+3: A vibrant, dynamic team of developers and QA engineers
+3: BA or MS in Computer Science, Electrical Engineering or related field
+3: Responsibilities:
+3: Competitive salary (discussed individually)
+3: Establish and maintain relationship network among industry peers. Attend and contribute to technical conferences and associations.
+3: :
+3: You’ll be part of a bright engineering team that has an open communication, empowerment, innovation, teamwork and customer success culture.
+3: Mentoring and leading junior engineers
+3: What we offer
+3: Ability to actively identify engineering problems and coordinate resolution
+3: Ability to write and assess high quality code
+3: Oversee all aspects of implementation of projects, usually carried out by remote engineering teams
+2: Experience with following technologies required: Java/J2EE, Service Oriented Architecture (SOA) or Web services.
+2: Turn business requirements into technical requirements
+2: Company-provided health insurance, benefit program, paid vacations
+2: Extend report functionality and presentation using JavaScript
+2: Familiarity with distributed systems, CAP theorem, be aware of replication/distribution caveats and scalability limits
+2: Exceptional problem solving skills and intellectual curiosity;
+2: Excellent knowledge of Linux/Unix-based operating systems.
+2: Develop deep understanding of business requirements by working with business subject matter experts, enterprise architects, and application developers.
+2: Major e-commerce web sites are complex beasts with lots of components and many layers of business logic. To stay ahead of competition, they have to evolve quickly, while maintaining 100% uptime and highest quality of implementation. The only way to meet this challenge is to automate all aspects of testing on every step of development and release lifecycle.
+2: Experience working with relational databases
+2: Once you join Grid Dynamics, you will get an exceptional team of architects, developers, and QA engineers to lead, manage and grow into today’s top performers and tomorrow’s technology leaders.
+2: Act as an idea and design broker between technical and business teams in order to ensure the maximum business value can be delivered.
+2: Team player who enjoys collaborating with analysts, architects, design and development teams and project managers. *Proven ability to meet deadlines, comfortable with fast-paced development cycles.
+2: Strong system analysis and quality engineering skills
+2: Flexible schedule
+2: Build strong working relationships and facilitate teamwork with other business analysts, developers, QA, project management and other team members.
+2: As a key member of this team, you will be working in a collaborative with a team of recognized experts. This is an excellent opportunity to become a key contributor the projects, while creating the next generation of network-centric cloud architectures.
+2: Strong understanding of various SDLC methodologies. *Experience with Agile development highly desirable.
+2: Experience with continuous integration tools (Hudson/Jenkins).
+2: Work closely with technical architects to understand technical design constraints and trade-offs.
+2: Analysis and improvement of application performance
+2: Lead large-scale platform development projects, from POC to production
+2: Understanding the difference in architecture and implementation between OLAP and OLTP systems
+2: Present proposals, presentations and white papers to senior technical and business decision makers to win their support and influence their decisions.
+2: Work with the developers to ensure quality and testability of the system
+2: 3-5 years of hands-on test engineering experience
+2: Strong communication skills with the ability to work successfully with a highly diverse team. Experience working in Java based e-commerce website is highly desirable.
+2: Create BI solutions that access various data sources including data warehouses, data marts, cubes, and relational databases and data warehouse appliances.
+2: Passion for innovation and creative problem solving;
+2: Strong analytical and problem solving skills.
+2: Understand business strategic goals at the project and program level and how system functionality can deliver business value.
+2: NoSQL experience in any of data grids, key-value storages, columnar databases
+2: Work closely with all participants of the delivery process: development, QA, DevOps, and release engineering teams.
+2: High-level understanding of systems design and technical concepts in order to communicate effectively with developers, project managers, colleagues, etc.
+2: Experience with Ecommerce highly desirable.
+2: Work closely with Business Owners to understand and shape business and/or functional requirements and corresponding technology solution
+2: If you are excited about all aspects of modern engineering, from writing a great code, to creating architectures, designing components, interacting with clients and delivering working system to production, then you are the kind of person we are looking for.  If you enjoy freedom and responsibility, creative thinking, leading and mentoring others, then  join our team of world-class developers, QA engineers, architects and managers.
+2: Coach and mentor junior engineers
+2: Conduct functional, performance, and stress testing
+2: Communication skills
+2: Knowledge of how “joins” happen in a database systems and search engines
+2: Must have hands-on technology experience in Business intelligence and Data Warehousing
+2: BS in CS or MIS, or Engineering, plus experience analyzing, clarifying and translating business and system requirements into functional specification documents (defining the detailed features and functions that make up the solution).
+2: Desire and ability for quick learning of new tools and technologies.
+2: Document and follow best practices, standards, processes and procedures of Cognos BI solutions.
+2: RDBMS experience (SQL, JDBC).
+2: Work in team using agile methodology of software development.
+2: Experience creating system interface specifications, documenting the business process flow as well as interface rules.
+2: Ability to proactively identify engineering problems and coordinate resolution;
+2: Tightly communicate with offshore teams to coordinate their activities and share knowledge
+2: Design, implement and support all aspects of platform release lifecycle and continuos delivery process
+2: Evaluate report, model and query performance making necessary model and/orcode changes to meet SLAs.
+2: Strong experience with SVN, git, ant, maven, CI tools
+2: Good understanding of foundational networking protocols (TCP/IP, UDP, HTTP, DNS, TLS)
+2: Must have 5 years of hands-on experience in software application development.
+2: Amazing colleagues to work with, share and learn from
+2: Experience with data mapping and dimensional data modeling techniques
+2: Act as a trusted adviser to the customer executives
+2: High profile project with bleeding egde technologies employed
+2: Understanding of agile software development methodologies
+2: Provide insight and direction about BI presentation approaches.
+2: System
+2: Review report requirements and make modifications to existing reports, dashboards and metadata.
+2: Communicate design recommendations to a varied audience.
+2: Beautiful and well-equipped office located downtown
+2: Willing to strive for the ideal design process while still working within the framework of the organization, project, and environment.
+2: Understanding of various models of application (sharding, replication, partitioning) and deployment (clustering, virtualization, load balancing) topologies
+2: Experience with deployment automation and configuration management tools (Chef, Puppet, AnthillPro).
+2: Background experience should preferably include both technical experience and business experience in for example management, sales or marketing.
+2: Experience with unit tests and integration tests.
+2: Business trips to USA
+2: Participate in the design, development, integration, maintenance and security of the Cognos metadata layer.
+2: Work on bleeding-edge projects within grid computing and distributed computing with a highly motivated and dedicated team of developers and testers
+2: Ability to supervise work of others and delegate tasks is a plus;
+2: Experience working with relational databases (SQL, JDBC)
+2: Medical insurance, benefit program, paid vacation
+2: Good interpersonal communication skills, both verbal and written.
+2: SSRS or Crystal Report experience is a plus
+2: Business Analyst
+2: Good interpersonal communication skills, both verbal and written;
+2: Advanced level, 5+ years of experience in SQL
+2: Good understanding of public/private cloud concepts (AWS, GoGrid, OpenStack)
+2: At least 3 years of experience in relevant fields: release engineering, continuous integration, deployment automation.
+2: High-energy atmosphere of a growing and successful company
+2: Deep understanding of Java platform &#8211; collections, concurrency, GC, etc.
+2: Partner with engineering managers to estimate implementation effort and staffing
+2: Business trips to the San Francisco/Bay Area
+2: Analyze business and technical requirements
+2: B.S. degree in Computer Science or Engineering or equivalent experience
+2: Deep understanding of OOP/OOD, patterns, UML and/or functional paradigm
+2: Extend the base functionality of the Cognos platform through SDK development.
+2: Cognos BI Professional Author or Application Developer Certifications is highly preferred.
+2: Communicate effectively with both business stakeholders and with technical team members.
+2: Understanding of agile methodology.
+2: Distributed caching solutions or IMDG
+2: Create system technical design documentation based on understanding of business needs and application architecture standards.
+2: Ability to proactively identify engineering problems and coordinate resolution.
+2: Health insurance, benefits package, company-sponsored conferences, vacations
+2: Bachelor’s or master’s degree in computer science, computer engineering, or related field
+2: Experience with relational and dimensional data.
+2: Analysis and improvement of application(-s) performance.
+2: Excellent problem solving skills, initiative and intellectual curiosity.
+2: Identify and implement new continuos delivery pipeline features and components to enhance its performance and robustness
+2: Good communication, customer and presentation skills.
+2: Experience in development process tools: IDE&#8217;s, compilers, debuggers, profilers, version control systems, bug tracking systems, build systems (ANT, Maven2, etc), code coverage and automated testing tools.
+2: Collaborate with leading Hadoop contributors and corporate users
+2: Experience with large-scale advanced CI/CD processes is a plus
+2: We offer:
+2: Troubleshoot issues and identify bottlenecks
+2: Programming background, knowledge of at least one dynamic programming language (preferably Ruby or Python).
+2: Participate in the evaluation of new projects to determine scope, feasibility, timelines, impacts to and integrations with existing systems.
+2: External participation/exposure to newer BI trends (i.e. data visualization, Collaborative BI, big data, etc.)
+2: Participate in and contribute to design and development of web-experience personalization system from product vision to implementation.
+2: Excellent verbal and written communication skills required.
+1: Ability to write and/or assess high quality code (Python, C, bash);
+1: Design and implement QA infrastructure, develop new innovative approaches to testing of complex systems
+1: Strong problem solving, communication (verbal and written)and analytical skills.
+1: Turn high-level business requirements into technical specifications and data models
+1: Generous compensation package that includes a competitive salary, comprehensive full benefits with Tiers-1 providers (medical, dental, vision and life), 401K, Section 125 pre-tax offerings (POP and FSA offerings)
+1: Good oral, written, and presentation skills. Spoken English – upper intermediate
+1: Deep understanding of different models in database architectures (single server, shared storage, MPP).
+1: Deep understanding of the Java platform and strong Java programming experience
+1: Deployment Engineer
+1: 5+ years of hands-on experience with enterprise software development
+1: Experience with open-source software, networking
+1: Proven experience in establishing effective development process in big distributed teams
+1: Support and mentor QA leads/engineers, produce their professional growth plans
+1: Excellent engineering and organizational problem solving skills
+1: Review existing code and provide recommendations on how to add effective instrumentation and monitoring code
+1: Experience of Java programming;
+1: Senior Java Developer
+1: Senior Engineering Manager will perform system analysis, design, development, test and evaluation activities, ensures the integration of software, systems, sub-systems, hardware, reliability, maintainability, safety, survivability, human and other requirements in the total engineering effort. Person must be Systems Engineering centric and have broad capabilities in HW &amp; SW engineering and be prepared to balance performing technical, direct-charge work in support of B&amp;P and Sell and indirect work performing as a regional Functional Manager.
+1: Experience with keyword search / theory of information retrieval &#8211; indexes, NLP, spelling, stemming, etc; open source products &#8211; Solr, Lucene
+1: System Administrator
+1: The ability to work in distributed team and be able to represents results to broad audience
+1: Participation in projects with customers in financial area
+1: Datamart design and performance optimization experience (exposure to specific analysis product is a plus);
+1: Good understanding on OOP;
+1: Always improve the way of doing things and share your knowledge with colleagues
+1: Senior DevOps Engineer
+1: Track record of delivering complex engineering projects for large corporate clients from presales to release in production
+1: Perform project planning and risk analysis
+1: Analyze, maintain, and improve CI processes in the Hadoop community and corporate Hadoop vendors
+1: Travel to US to work together with US team on the client side
+1: Hands-on experience with Linux and shell
+1: Experience of building secured web services (X.509 Authentication, Digital Signature, Encryption,  WS-Security, WS-Trust, SSL)
+1: Consulting of developers in infrastructure configuration issues (OS performance optimization, network bottlenecks, storage configuration, etc).
+1: build-systems (ant, maven2, etc), continuos integration,  wiki, etc..
+1: Strong knowledge of Core Java, Enterprise Java and Spring/Hibernate frameworks
+1: Participate in design and development of scalable search platform, from requirements analysis to production
+1: Development of data analysis methodology and workflow for commercial systems.
+1: Knowledge of Linux/Unix-based operating systems.
+1: A vibrant, dynamic team of managers and developers
+1: Advice on how to pass the interview
+1: Preferred
+1: Strong understanding of operating systems (at least one Linux distribution)
+1: The opportunity to work on cutting-edge projects with highly scalable SaaS stack as part of a team of experienced and motivated developers and QA engineers
+1: IT or computer science background
+1: Good understanding of JVM internals
+1: Experience in building reliable systems using open-source software
+1: Higher education in the field of Computer Science and Information Technology or equivalent;
+1: Expert experience in Java development and enterprise web application development experience with deep understanding of main ideas (J2EE, Spring Source, etc): PersistenceManagement, transactions, messaging, dependency management etc.
+1: Work inside the team of software engineers
+1: Join a small and elite team of client architects to become a technical leader on a major platform development project. Work onsite imbedded into the client’s delivery organization while leading a world-class global engineering team, onshore and offshore.
+1: Perform modeling of relational, dimensional and dimensionally modeled relational models
+1: Good Virtualization knowledge on Linux/KVM and Xen PV.
+1: Training on Cognos BI
+1: Knowledge of high-performance web or enterprise applications, parallel processing or cloud computing strongly preferred;
+1: Work in agile software development process (Scrum, two-week iterations, continuos integration/continuos delivery, planning games, daily stand-up)
+1: Setting up and configuring common services experience: web (Apache), ftp, dns, nfs, vpn, ldap, mail servers.
+1: Experience in performance problem solving for java applications – profilers, JVM/GC options tuning, memory leak detection, etc.
+1: Fluency in shell scripting; knowledge of coreutils tools.
+1: Understanding of database query execution internals and plan optimization techniques;
+1: Financial Planning &amp; Forecasting
+1: Strong background in SQL Server, Analysis Services, Oracle
+1: Strong understanding of software design;
+1: Administrators, Computer Technicians, Technology Facilitators, and staff as needed. A person in this position coordinates district-wide server and infrastructure projects in cooperation with other departments. The
+1: Paid vacation and sick leave
+1: Understanding of quality assurance procedures for BI/Machine learning systems;
+1: Grid Dynamics eCommerce search platform team is looking for a bright, energetic and creative Architect to participate in the design and development of next-generation scalable search projects. If you enjoy freedom and responsibility, creative thinking, working with open-source technologies, leading and mentoring others; then join our small team of elite Software Developers, QA Engineers and Architects, where you will work onsite imbedded into the client’s delivery organization while leading a world-class global engineering team, onshore and offshore.
+1: Interface with business users in order to help identify, document, clarify and/or review requirements.
+1: Delivery Manager
+1: The Business Analyst is responsible for communicating created requirements to the engineering team in the form of user stories or use cases. The Analyst is also responsible for constantly ensuring that the implementation of the system satisfies business requirements. After the implementation, the Business Analyst signs off on the user stories and participates in the final customer sign off.
+1: Knowledge of the major virtualization environments;
+1: Knowledge natural language processing techniques;
+1: Mentor some of projects/accounts;
+1: Strong problem solving, communication (verbal and written) and analytical skills.
+1: The Data Scientist is responsible for finding trends in large datasets and comfortable working in a highly dynamic environment.
+1: Deep understanding of Enterprise Java stack (J2EE, SpringSource, ORM) – Persistence management, Transactions, Messaging, Dependency management, etc.
+1: Monitoring the status of current projects and regular reports;
+1: Understanding and  strong experience with: XML, XSD, XSLT, XPath
+1: Experience of small development team leadership.
+1: Perform strategic planning, risk analysis and department management
+1: Solid understanding of building web applications with Play
+1: Strong understanding of software design
+1: A thorough understanding of OOP / OOD, Design Patterns, UML
+1: Hand-on experience with the scripting languages (python, bash, perl) is a plus
+1: Good communication skills and Upper &#8211; intermediate English level;
+1: Proficient in creating technical design and code documentation that is valuable to outside team members
+1: Web services development (contract first) experience and knowledge of WS-* standards and specifications(JAX-WS,  SOAP, WSDL, WS-Security, WS-Addressing, WS-Policy)
+1: Flexible schedule;
+1: Strong Linux skills (Red Hat Enterprise Linux preferred)
+1: Install new and upgrade existing software;
+1: Lead QA team of 3 engineers
+1: Experience with unit tests and integration tests
+1: Experience with Hadoop or other distributed platforms and databases is a plus
+1: Knowledge of integration patterns and the role of IBM Message Broker in
+1: Fluency in Unix/Linux OS administration: RHEL/CentOS/Fedora is highly recommended, Ubuntu/Debian is plus.
+1: Consult with non-technical business users, business professionals, technical and executive staff to elicit input, capture feedback and provide assistance with the BI solutions.
+1: Good communication skills and technical English
+1: Data Scientist (Big Data)
+1: Experience with QA automation tools: FitNesse, Selenium, etc.
+1: Assist in the creation and leveraging of metadata management and taxonomy/canonical structures
+1: Join a brand new project to develop a testing harness for one of the largest Hadoop clusters in the world, processing 100 Billion events per day. Become a core member of the quality engineering team working on development and white box testing of Apache Hadoop project and related projects including Hive, Pig and HBase. Work side by side with our clients, major Apache Hadoop contributors. A unique opportunity for skilled and passionate engineers to contribute to one of the strongest open source communities, collaborate with Hadoop creators and learn what it takes to test world&#8217;s largest distributed system.
+1: CI servers configuration (Hudson/Jenkins, Cruise Control).
+1: Defined and/or delivered advanced/mature BI solutions
+1: Expert level, 5+ years of experience in Cognos Business Intelligence (through v10), Framework Manager, Security and Report Studio
+1: Conduct employee performance evaluation and career planning
+1: Technical support for remote centers;
+1: Knowledge of Service Orientation, SOA best practices and principles
+1: ATG Architect
+1: Cognos BI and Netezza experience is a plus
+1: Ability to work with DVCS: Git, Mercurial, Bazaar-NG, is a plus;
+1: Experience with functional programming in Scala/Akka
+1: Willingness and ability to quickly learn and master new tools and technologies
+1: Track record of creating successful and deployed products or solutions
+1: Competitive salary (after interview);
+1: Drivers license
+1: Education in Computer Science or similar;
+1: Ability to work on every level of the stack, from the application down to the metal;
+1: Experience with build systems (ant, maven2, etc)
+1: Experience with git and Maven2
+1: The Business Analyst is responsible for communicating created requirements to the engineering team in the form of user stories or usage cases. The Analyst is also responsible for constantly ensuring that the implementation of the system satisfies business requirements. After the implementation, the Business Analyst signs off on the user stories and participates in the final customer sign off.
+1: Assist in the creation, maintenance and documentation of Cognos security model including authentication, object and data level security.
+1: Experience of development, documentation and «sale» of software architecture design to team or customer.
+1: Experience with Linux/Unix, good knowledge of core utilities (ps, top, grep, sed, less, vi, ssh, etc) and at least basic knowledge of scripting languages  (shell, bash, kshell, etc.)
+1: A thorough understanding of OOP/OOD
+1: Knowledge of SQL-based DBMS, at least MySQL;
+1: 5+ years in Software Development.
+1: Knowledge of Linux/Unix-based operating systems (bash/ssh/ps/grep etc.).
+1: Extensive knowledge with massively scalable systems or cloud computing strongly preferred
+1: Manage significantly growing team of QA engineers
+1: Build and Software project management tools (Ant, Maven, etc).
+1: Grid Dynamics seeks a great Senior Java Engineer with strong technical expertise, who is interested in joining our Cloud based project, responsible for developing a highly scalable Cloud platform. We are building a product that allows enterprises to do things that just yesterday were thought to be impossible. eBay, PayPal, Microsoft and Cisco rely on us to deliver core pieces of their cloud strategy.
+1: Grow and motivate outstanding engineering team of experts in building new generation e-Commerce solutions
+1: Grid Dynamics seeks a great Senior Java Engineer with strong technical expertise, who is interested in joining our Cloud based project, responsible for developing a highly scalable Cloud platform for Macy&#8217;s, one of the largest world-leading retailer. We are building a product that allows enterprises to do things that just yesterday were thought to be impossible. eBay, PayPal, Microsoft and Cisco rely on us to deliver core pieces of their cloud strategy.
+1: If you are an inspiring leader with a strong desire to win in the competitive marketplace by building great teams that can develop great products, then Grid Dynamics is the right company for you. If you have passion for software development, excellent technical background, deep understanding of development processes, hands on experience with delivery large enterprise solutions, and a proven track record of making big teams successful, then you are the kind of person we are looking for.
+1: Background in financial applications
+1: Experience with IBM MQ and IBM Message Broker
+1: Extensive experience with automated testing frameworks (Cucumber, Selenium etc.)
+1: eCommerce search platform team is looking for bright, energetic and creative Java developers to participate in the design and development of next-generation scalable search projects. If you enjoy freedom and responsibility, creative thinking, working with open-source technologies, leading and mentoring others &#8211; join our team of world-class developers, QA engineers and architects.
+1: Microsoft System Center Operations Manager 2007/2012: experience in developing management packs is a plus
+1: Control development team&#8217;s efficiency and ability to deliver
+1: Deployment or configuration automation experience (Chef, Puppet are treated as a plus).
+1: Experience in e-Commerce platforms and solutions
+1: Work in agile software development process (Scrum,  two-week iterations, Continuos Integration/Continuos Delivery, Planning Games, Daily Stand-Up)
+1: Be interested in the company and it&#8217;s people. Ask what we do, how and why
+1: Good understanding of ALM, Agile/SCRUM processes
+1: Keyword search practice/information retrieval theory – indexes, NLP, spelling, stemming, etc
+1: Prior experience working with data modeling repository server environment and maintaining model versions/model objects, which may be common to several distinct application development efforts
+1: Work  on bleeding-edge projects for established industry leaders alongside with brilliant and motivated peers
+1: Experience with private/public clouds (Amazon, GoGrid, OpenStack, VMWare Cloud)
+1: Strong experience in automated testing and experience of integration it in development process
+1: Technical Lead of Big Data/Personalization/Hadoop Team
+1: Produce high quality, tested, and documented artifacts
+1: Strong Java, C/C++ or C# or .Net skills
+1: Actively engage the OpenStack community and other relevant open source work efforts .
+1: Strong distributed systems and architecture knowledge and experience;
+1: Virtual Machines configuration and usage (Xen, VMWare, VirtualBox, KVM, OpenVZ).
+1: DevOps Engineer
+1: Working Knowledge of .Net, Java or other external applications interacting with Cognos BI and dimensional data via the CognosSDK.
+1: OpenStack Developer
+1: Join a brand new project to develop an infrastructure for continuous integration, testing and deployment of one of the largest Hadoop clusters in the world, processing 100 Billion events per day. Become a core member of the engineering team working on development and white box testing of Apache Hadoop project and related projects including Hive, Pig and HBase. Work side by side with our clients, major Apache Hadoop contributors. A unique opportunity for skilled and passionate engineers to contribute to one of the strongest open source communities, collaborate with Hadoop creators and learn what it takes to develop world’s largest distributed system.
+1: At least 5-6 Years of experience with Cognos 8.4/10.1Business Intelligence and/or Cognos performance management as a developer andarchitect.
+1: Experience in performance problem solving for java applications &#8211; profilers, JVM/GC options tuning, memory leak detection, etc.
+1: Experience in scripting on any of Ruby, Python, Perl etc is required.
+1: Experience with software project management tools (Maven,  Gradle)
+1: Excellent understanding of Application Lifecycle Management in general and Agile/SCRUM principles and practices in particular
+1: Work on customer’s site: collection requirements, presentation of design, configuration of environment
+1: Join a small and elite team of Business Analysts to become a key customer facing leader on a major eCommerce development project. Work imbedded into the client’s delivery organization while leading a world-class global engineering team, onshore and offshore.
+1: Performance analysis and performance optimization of Java applications – profilers, JVM / GC options tuning, memory leak detection, etc
+1: The Business Analyst is a key customer facing position. The Business Analyst is part of the on-site team, closely working together with the customer on collecting and understanding business requirements; and with the Client Architect and on-site engineering team to align requirements with architecture. In order to create robust and extensive requirements document, the Systems Analyst should have in-depth knowledge of customer business domain and have excellent technological background.
+1: Understanding of database concepts and expertise in SQL
+1: Deep understanding and practice in Agile including QA-in-Agile;
+1: Strong understanding of agile development process and work experience in Scrum projects
+1: Ability to write quality code (Ruby or Python strongly preferred)
+1: Willingness and ability to quickly learn and master new tools, technologies and processes
+1: Experience with Oracle/DB2
+1: Senior Engineering Manager
+1: Ability to effectively communicate and collaborate with business and technical stakeholders, including business owners, analysts, developers and database administrators
+1: Experience in software profiling and debugging
+1: We are looking for brilliant Deployment Engineers to help design and implement next generation of cloud platforms and services. We are building solutions that allow enterprises to do things that just yesterday were thought to be impossible. eBay, PayPal, Microsoft and Cisco rely on us to deliver core pieces of their cloud strategy.
+1: Experience of load and performance testing;
+1: Join a small and elite team of Business Analysts to become a key customer facing leader on a major eCommerce development project. Work onsite embedded into the client’s delivery organization while leading a world-class global engineering team, onshore and offshore.
+1: Flexible Benefits System (medical insurance, partial payment of sports, training, classes in English);
+1: SCRUM development  experience of enterprise projects
+1: Strong personality and ability to lead a team.
+1: What We Offer:
+1: Good understanding of unit tests, integration tests, TDD and BDD.
+1: Design and implement technical solutions in a cloud management environment
+1: Network administration, basic routing;
+1: Join our Product Development team as a Quality Engineer and help design and implement the next generation of cloud application management platforms. We are building a product that enables enterprises to do things that just yesterday were thought to be impossible. If you have a passion for software development, excellent technical background, meticulous attention to detail, and a proven track record of delivering high-quality work on time and budget, then you are the kind of person we are looking for.
+1: Maintain and improve effective communication between a distributed engineering team, cooperative vendors and clients
+1: Java Enterprise development experience
+1: Learn, evolve and distribute SOA practice  in team
+1: Join a small and elite team of client architects to design next-generation data platforms for a leading financial services company. Work onsite imbedded into the client’s delivery organization while leading a world-class global engineering team, onshore and offshore
+1: Good entrepreneurial skills and strong intention to build great teams
+1: Collaboration with distributed team of developers, testers, analysts (Moscow, Kharkov, San-Francisco)
+1: Design and develop test automation frameworks for the Hadoop ecosystem
+1: QA Manager
+1: Collaboration with distributed team of developers, QA engineers, analysts located in St.Petersburg and San-Francisco.
+1: 3+ years of project/program management on a senior level
+1: Background in financial applications, e-commerce, or infrastructures for high-traffic web commercial sites is a big plus
+1: Ability to work in a team;
+1: Good understanding of networking (TCP/IP, UDP, HTTP, VPN, Firewall, etc)
+1: Excellent understanding of OOP, aspect, functional programming paradigms
+1: Work in agile software development process (Scrum,  two-week iterations, continuos integration/continuos delivery, planning games, daily stand-up)
+1: Work on cutting-edge technology projects with highly scalable SaaS stack as part of a team of experienced and motivated developers and QA engineers
+1: IT-security;
+1: Establish data standards and policies for data modeling, data systems design and integrity of data assets
+1: Deep understanding of Unix-based OS concepts. Comfortable with basic usage and administration.
+1: Hands-on experience with Linux
+1: Experience with columnar databases (Apache HBase, Greenplum DB, Sybase IQ or other);
+1: Experience in administration of operating systems, Unix (Linux, Solaris), knowledge of the Unix shell;
+1: Collaboration with globally distributed team of engineers, architects and analysts (Kharkov, San Francisco)
+1: Network administration, network protocols knowledge (TCP/IP, SSH, FTP, HTTP, DNS, SMTP), firewall configuration, implementation in Linux
+1: Experience in Web UI front-end development (JavaScript, Backbone.js, JQuery)
+1: Interact with customers to collect requirements and define scope of project(s)
+1: Quality Engineer
+1: Maintaining a registration of equipment;
+1: Interaction with suppliers of equipment and software.
+1: Required Skills
+1: Analyze, maintain, and improve CI/CD and QE processes in the Hadoop community and corporate Hadoop vendors
+1: Deep understanding of Java platform – collections, concurrency, GC, etc.
+1: Experience with columnar databases (Apache HBase, Greenplum DB, Sybase IQ or other).
+1: Development Life-cycles &amp; Methodologies (Agile)
+1: Experience of automated testing;
+1: Ability and willingness to write quality Java code
+1: Keyword search practice/information retrieval theory &#8211; indexes, NLP, spelling, stemming, etc
+1: Deep understanding of software testing methodology and best practices
+1: General knowledge of Linux architecture
+1:   Work on bleeding-edge projects for established industry leaders alongside with brilliant and motivated peers
+1: Conduct employee performance evaluations
+1: Development of performant, scalable and robust business applications and platforms
+1: Relevant expertise of using bug-tracking systems (Jira, Mingle);
+1: Education in Computer Science or similar theoretical knowledge in CS: algorithms and complexity estimation, data structures, operation systems, programming languages
+1: Perform modeling of relational, dimensional and dimensionally modeled relational models and provide assistance and mentoring to junior team members.
+1: Excellent strategic planning skills in combination with ability to effectively focus and prioritize
+1: Integrate QA in agile software development process (Scrum, two-weeks iterations, CI/CD)
+1: Join team that develops the most innovative e-Commerce platform for one of the oldest and successful retailers in USA.  Grid Dynamics is looking for a Senior Delivery Manager that will be responsible for development of high performance scalable e-Commerce solutions, innovation technologies and the platform components.
+1: Client Architect / Principal Engineer
+1: Any search library/server experience: Lucene/Solr/Elastic Search/Sphinx/Xapian/BoboBrowse
+1: Manual testing of REST/Hessian services;
+1: Strong Java skills
+1: Excellent knowledge of Java platform (collections, concurrency, etc).
+1: Search Engineer
+1: Process &amp; Procedures (Best Practices, O&amp;M, etc.)
+1: What Would Be a Plus:
+1: Senior Scala Developer
+1: Senior Java Engineer
+1: Write scripts and configurations to enable enterprise management systems monitor the instrumented applications.
+1: Able to supervise work of others and delegate tasks
+1: Collaboration with globally distributed team of engineers, architects, analysts and testers (Kharkov, San Francisco)
+1: A thorough understanding of OOP / OOD, Design Patterns, UML.
+1: Development of functional tests&#8217; components on Java for Fitnesse;
+1: Show passion to deliver great software and aspiration for innovation and teamwork
+1: Will work across most/all programs.  Requires constant collaboration with other SEMs, Technical Managers (STM/TM), PTMs, IPT Leads, PMs, &amp; Engineers.  Will participate in program specific reviews (prep, execution/monthly PPRs and close-out)
+1: Netezza experience is a plus
+1: Produce high quality, tested and documented artifacts;
+1: Good understanding of JVM internals is a plus
+1: Maintain effective development process and improve it according to the latest industry standards
+1: Collaboration with globally distributed team of engineers, architects and analysts
+1: Extensive hands on experience (?+ years) software engineering
+1: Experience of writing functional tests in Fitnesse.
+1: Performing automated testing and analysis of results;
+1: is responsible for the evaluation, testing, and implementation of new server hardware/software, security policies, procedures, and directory architectures.
+1: Knowledge in data mining and machine learning algorithms;
+1: Understanding of software testing methodology;
+1: Create, evaluate, and select options for technology design
+1: Collaborate with globally distributed team of engineers, architects and analysts
+1: At least basic experience with Scala, Groovy and desire to learn and work with these languages
+1: Deep understanding of different models in Deployment Architecture (single server, horizontal cluster, virtual machines, etc)
+1: A young dynamic team of qualified engineers;
+1: Machine learning/data mining techniques – pattern mining, collaborative filtering, anomaly detection.
+1: Develop and continuously improve QA best practice
+1: Experience with continuous testing and deployment;
+1: J2EE servers configuration and deployment (JBoss, Apache Tomcat, Jetty, Oracle Weblogic, IBM WebSphere, SpringSource dm Server, etc).
+1: Excellent understanding of diverse databases (Relational DB, NoSQL DB)
+1: Migration/Replacement experience
+1: <h2>Desired Skills &amp; Experience</h2>
+1: High problem solving attitude with understanding specifics of multinational and distributed development process
+1: Manage development and delivery of high performance, innovative, scalable and robust e-Commerce platforms and related business applications
+1: Java-Hadoop Test Harness Developer
+1: Work with customers to understand and set goals for a specific project
+1: Oversees all aspects of implementation of projects, usually carried out by remote engineering teams
+1: Identify core engineering challenge(s) and formulate problem statement
+1: Strong performance engineering skills (profiling, code analysis, JVM-specific performance tuning etc).
+1: Experience with RESTful-based and WSDL-based Web Services
+1: Work with customers to understand business objectives and set goals for projects
+1: Network administration (backup, security, user account management, e-mail systems, Internet access, maintenance of office systems and applications);
+1: Data Scientist (Cognos)
+1: Generous compensation package that includes a competitive salary, full benefits (medical, dental, vision and life), 401K, Section 125 pre-tax offerings (POP and FSA plans) and employees&#8217; stock options
+1: 3+ years in Software Development.
+1: We offer
+1: Join our Development team as a QA Lead and help design and implement the continuous delivery solution for major US financial company. We are building a solution that enables to drastically reduce time required to release new features. If you have a passion for software development, excellent technical background, meticulous attention to detail, and a proven track record of delivering high-quality work on time, then you are the kind of person we are looking for.
+1: Participation in development and building architecture of innovative continuous delivery platform.
+1: Good understanding Development Life-cycles &amp; Methodologies (Agile)
+1: Integration Java Developer
+1: Good understanding of software reliability principles (replication, failover, data consistency etc). Ability to test these properties.
+1: Be relaxed, confident and engaged. Interview is a two-way street. Come to show yourself and learn about the company
+1: Good interpersonal communication skills
+1: Control quality of the Company products and services
+1: Understanding of network protocols TCP/IP, UDP and main principles of network topologies
+1: Strong Java or C/C++ or C# or .Net skills
+1: Design and implement tests and testing harnesses, build and deploy scripts
+1: Excellent communication skills and fluent English
+1: Good understanding of enterprise architecture patterns and requirements with focus on the system availability, manageability and traceability
+1: Create metadata models that are aligned with BI strategies, organizational goalsand objectives.
+1: Organize and manage QA teams splited between locations
+1: Development of performance tests&#8217; components on Java for Jagger;
+1: Experience with IBM InfoSphere Data Architect Version 7.5
+1: Collaboration with globally distributed team of engineers, architects, analysts and testers
+1: Strong background in SQL Server, Analysis Services
+1: Masters&#8217;s or Engineer’s degree in one of: Engineering, Computer Science, Physics or Mathematics (or equivalent education/experience).
+1: Enterprise Java Consultant
+1: Must be able to understand skill set expertise of the engineers and skill requirements of current and future work with PTMs and first-line managers (TM/STM’s) to shape the career paths for people in their respective specializations and to identify technical skill gaps in the engineering organization.
+1: Participation in initiation of open-source community around the invented technology and further collaboration with Open-source community participating in decision making regarding architecture and technology evolution direction
+1: Client Architect
+1: Join a team of global Data Scientists, where you will have the opportunity to
+1: Join a team of DevOps engineers who design, implement and support a continuous delivery pipeline for a major e-commerce platform. Your mission would be to fully automate every part of platform release lifecycle: starting from code committed to version control system, through functional, integration, performance and scalability testing all the way to staging and finally production deployment.  Work tightly with development, QA and ops teams to deeply understand their needs and ensure agile, robust and smooth operation of complex continuos delivery machinery. Put your expertise in public and private cloud platforms, systems administration, provisioning and deployment automation, configuration management and continuos integration to a real work.
+1: Version control systems: Subversion, CVS, Git.
+1: Intermediate level, 2+ years of experience in Cognos  SDK Development, Microsoft Analysis Services Cubes, SQL Server RDBMS tool suite, Data Warehouse Architecture, .Net Development
+1: Experience with continuous integration and deployment
+1: Work with terrific customers on large, innovative projects
+1: Flexible working hours;
+1: Experience of performance problem solving;
+1: .Net, web development and JavaScript experience
+1: Attractive compensation package with generous benefits (medical, dental, vision and life), 401K and Section 125 pre-tax offerings (POP and FSA plans)
+1: Participation in internal software release process.
+1: Database administration (DB2, Oracle, MySQL, PostgreSQL)
+1: Desired Skills
+1: Deep understanding of different models in database architectures (single server, shared storage, MPP);
+1: Experience in administration of operating systems Microsoft Windows (Windows domain administration skills are welcome);
+1: Experience of performance problem solving.
+1: Professional experience in the software development industry at least 7 years; Familiar with most popular project management methodologies, experience of work as Scrum Master, PM, DM, Director etc;
+1: Familiarity with interacting with brokers and frameworks
+1: Strong knowledge of Scala and experience with Akka
+1: Company-provided health insurance, paid vacations
+1: Join a team of global Cognos Developers, where you will have the opportunity to
+1: Experience of using version control systems;
+1: If you are an inspiring leader with a strong desire to win in the competitive marketplace by building great teams that can develop great products, then Grid Dynamics is the right company for you. If you have passion for software development, excellent technical background, deep understanding of development processes, hands on experience on design the architecture of large enterprise solutions, and a proven track record of making this successful, then you are the kind of person we are looking for.
+1: Knowledge of latest approaches to project management, best practices and trends with their strengths and weaknesses
+1: Assist with technical sales support
+1: Deep understanding of Java platform (collections, concurrency, etc ) and JVM internals (memory model, GC, etc )
+1: Design and development services using IBM Message Broker 7/8 as part of SOA delivery team
+1: Preferred Skills
+1: Participation in design and development of solutions using in-memory data grid technologies on Java platform
+1: Experience with messaging brokers and frameworks is a plus;
+1: Experience with Java and Windows stacks
+1: Experience with NOSQL systems (MongoDB preferred)
+1: Relevant knowledge of Java SDK, Spring Framework;
+1: Demonstrate strong computer science background, as you will be asked computer science questions
+1: Strong understanding of Continuous Integration and Continuous Delivery
+1: Solid understanding of OOP/OOD, patterns, UML.
+1: Experience with version control and bug tracking systems
+1: 5-10 years of hands-on data modeling data management and software engineering experience
+1: Business trips to US
+1: Participate in design and development of high-performance business application, from requirements analysis to production.
+1: Requires ATG understanding on the architect level and at least one large enterprise implementation as experience.
+1: Business trips to United States
+1: Administrator
+1: Generous compensation package that includes a competitive salary, full benefits (medical, dental, vision and life), 401K, Section 125 pre-tax offerings (POP and FSA plans)
+1: Strong distributed systems and architecture knowledge.
+1: The Architect will be responsible for interacting with key customer technical and business representatives to collect and document customers’ environment and requirements. Furthermore, he or she must be able to create high quality architecture design and solutions to solve identified problems, working with our remote development teams and provide directions and scope, and identifying risks and produce mitigation plans.
+1: Deep understanding and practice in Agile including QA-in-Agile
+1: Good understanding of agile development process;
+1: The Senior Client Architect is a lead customer facing technical position. The Architect is part of the on-site team, working together with the Program Manager, on-site engineering resources and directly with the customers to understand requirements and develop assigned components.
+1: Writing functional tests, test plans and test cases;
+1: Knowledge of tools and experience of building a continues integration(CI) and delivery(CD)
+1: participate in design and development of scalable search platform, from requirements analysis to production
+1: Degree in Computer Science or equivalent with excellent theoretical knowledge in computer science (such as algorithms and evaluation of their complexity, data structures, operating systems, databases, and programming languages)
+1: Collaboration with distributed team of developers, testers, analysts (St. Petersburg, San-Francisco).
+1: Would be a plus:
+1: Intermediate level, “Nice to Have“ experience in MicrosoftDTS, SSIS and SSRS and Netezza Integration
+1: Understanding of ORM frameworks internals is a plus
+1: Upper-intermidiate level of technical English
+1: Deep understanding of Enterprise Java stack (J2EE, SpringSource, ORM) &#8211; Persistence management, Transactions, Messaging, Dependency management, etc.
+1: Knowledge of basic administration of operating systems, at least — Linux.
+1: Experience writing unit-tests and integration tests , understanding of TDD and BDD
+1: The Administrator is an expert in server and directory administration, security and storage systems, customer service, and emerging technologies. The employee provides training to other
+1: Experience of using Java frameworks Mockito, TestNG;
+1: Excellent understanding of application testing, experience with JUnit or TestNG
+1: Security;
+1: Join a team of DevOps engineers who design, implement and support a continuous delivery pipeline for a major e-commerce platform. Work onsite, embedded into customer organization, while representing and coordinating world-class global engineering team. Your mission would be to fully automate every part of platform release lifecycle: starting from code committed to version control system, through functional, integration, performance and scalability testing all the way to staging and finally production deployment.  Work tightly with development, QA and ops teams to deeply understand their needs and ensure agile, robust and smooth operation of complex continuos delivery machinery. Put your expertise in public and private cloud platforms, systems administration, provisioning and deployment automation, configuration management and continuos integration to a real work.
+1: Ready to work with ambitious talents.
+1: Work in an agile methodology environment where innovation, teamwork and creativity are the basis for success.
+1: Assist with developing frameworks that simplify software developers’ efforts of emitting trace, error and recovery events
+1: Knowledge of high-performance web or enterprise applications, parallel processing or cloud computing strongly preferred
+1: Deep understanding of the Java platform and hands-on Java programming experience
+1: Experience with IBM Banking and Financial Services Data Warehouse model using EME 8.2 (8.4)
+1: We are looking for great people and would like for you to succeed in the interviewing process. Here are a few pointers to what to expect and make the best out of the interviewing experience:
+1: integration.
+1: Working in tight collaboration with Director of Engineering (including DoE in other locations) and ready to substitute.
+1: Deep understanding of different models in Deployment Architecture (single server, horizontal cluster, virtual machines, etc).
+1: Up to speed with modern software engineering tools: project management, version control systems, issue tracking, build-systems, continuous integration, wiki, etc..
+1: Actively find ways to improve software (evaluate and incorporate new libraries, tools and technologies; code reviews; refactoring; testing; etc.)
+1: Background in web-scale systems or cloud computing
+1: Find simple, robust solutions to complex issues.
+1: Experience in enterprise applications development (J2EE, Spring Source, etc) is a big blus
+1: Cognos Developer
+1: Collaboration with corporate and customer’s IT services
+1: The Business Analyst is a key customer facing position. The Business Analyst is part of the on-site team, closely working together with the customer on collecting and understanding business requirements; and with the Client Architect and on-site engineering team to align requirements with architecture. In order to create robust and extensive requirements document, the Systems Analyst should have in-depth knowledge of customer business domain and have excellent technological background.
+1: Requirements:
+1: Good understanding of software reliability principles and distributed systems
+1: Qualifications
+1: Casual understanding of .Net coding techniques (ASPX/C#/WCF)
+1: Experience with NOSQL systems is a plus;
+1: Deep understanding of the JVM internals (GC, memory model, byte code)
+1: An attractive compensation package with generous benefits (medical, dental, vision and life), 401K and Section 125 pre-tax offerings (POP and FSA plans)
+1: Good user-level experience of using Linux and Windows;
+1: Join a small and elite team of client architects to become a technical leader on a major platform development project. Work onsite imbedded into the client&#8217;s delivery organization while leading a world-class global engineering team, onshore and offshore.
+1: You will
+1: We are seeking a self-motivated software engineer proficient with Java development and good communication skills to develop tools and provide guidance to various development teams on how to design manageable applications. The ideal candidate for this position is someone with strong experience in developing enterprise applications, broad technical background, able to work in highly dynamic environment and comfortable with constantly learning new skills.
+1: Manage and mentor people, organize better processes, promote right tooling, email/collaboration best practices in distributed teams etc.
+1: Good understanding of JVM internals.
+1: Share your greatest successes &#8211; and failures. We want to know you can take complex assignments, admit not everything always goes right, learn from your mistakes and move forward
+1: Infrastructure Software Engineer
+1: At least 5 years of hands-on software development experience
+1: A great opportunity to join a project that builds a backbone of a new financial platform of our customer. The project is aimed to build a SOA platform for financial company and is based on the latest industry products and tools from IBM. Agile based approach of the delivery and collaboration processes will bring a spirit of cooperation and welcome the best team players.
+1: Required Skills &amp; Experience
+1: Participation in research in the field of performance of distributed Java applications
+1: If you are aspired with completeness, coverage, robustness and performance of automated testing pipelines – join our QA team. As a QA Manager, you will ensure quality of e-commerce platform for the largest and fast growing US retailers, and work with cutting edge technologies in automated testing.
+1: Experience in designing distributed systems is a big plus;
+1: Develop CI infrastructure and test harness for the Hadoop ecosystem
+1: At least 2 years of experience of managing a small to medium team of developers
+1: Performance analysis and performance optimization of Java applications &#8211; profilers, JVM / GC options tuning, memory leak detection, etc
+1: Good analytical and problem solving  skills
+1: Knowledge of dynamic jvm languages
+1: Join team that develops the most innovative e-Commerce platform for one of the oldest and successful retailers in USA.  Grid Dynamics is looking for a Enterprise Java Consultant that will be responsible for development of high performance scalable e-Commerce solutions, innovation technologies and the platform components.
+1: Competitive salary (after interview)
+1: Ability to work on every level of the stack, from the application down to the metal
+1: Elimination of technical failures;
+1: You will be pioneering solutions that work with all kinds of leading-edge commercial and open source database technologies.
+1: Understanding and experience of a full software development lifecycle support from the design through implementation, testing, releasing to retirement
+1: Ability to write and/or assess high quality code
+1: Illustrate practical experience in modern team-oriented software engineering methodologies through examples from your career
+1: Design and implement technical solutions in the IaaS space;
+1: Support and continuous enhancement of software development infrastructure: continuous integration and delivery, databases, cloud services, systems monitoring, etc.
+1: Participate in white box testing of the Hadoop projects. Maintain and improve unit and integration tests, explore Hadoop internals
+1: Medical insurance, benefit program,  paid vacation.
+1: Natural language processing/information retrieval theory; open source products/frameworks — Solr, Lucene.
+1: Strong knowledge of Java EE technologies with focus on Dependency Injection and AOP, O/R mapping layer such as Hibernate or Mybatis, experience with different Spring Frameworks, experience with different MVC architectures (Struts 2, JSF, Spring MVC)
+1: Analyze and improve code quality and robustness of the Hadoop core and related projects
+1: Experience in building reliable systems using Open Source software;
+1: Skill Set Requirements
+1: Experience with automated testing frameworks (Cucumber, Selenium etc.)
+1: English (at least upper intermediate)
+1: Join our Product Development team as a Senior Software Engineer and help design and implement the next generation of cloud application management platforms. We are building a product that enables enterprises to do things that just yesterday were thought to be impossible. If you have a passion for software development, excellent technical background, deep understanding of development processes, hands-on experience with SaaS product development, and a proven track record of delivering complex engineering solutions on time and on budget, then you are the kind of person we are looking for.
+1: Experience with Java technology stack preferably Spring technology stack, H2, SLF4J
+1: Understanding of database query execution internals and plan optimization techniques.
+1: If you are aspired with completeness, coverage, robustness and performance of automated testing pipelines &#8211; join our QA team. As a Senior QA Automation Engineer, you will ensure quality of e-commerce platform for the largest and fast growing US retailers, and work with cutting egde technologies in automated testing.
+1: Bachelor&#8217;s or master’s degree in computer science, computer engineering, or related field
+1: Experience in Cloud Computing solutions
+1: Understanding of ORM frameworks internals
+1: Working Knowledge of .Net, Java or other external applications interacting with Cognos BI and dimensional data via the Cognos SDK.
+1: Salary (discussed individually);
+1: Support and mentor Development Managers, collaborate with remote on-site leads and account directors;
+1: Oracle (Tangosol) Coherence or other distributed caching solutions or IMDG
+1: Capacity to supervise work of others and delegate tasks
+1: Oracle (Tangosol) Coherence or other clustering cache solutions/IMDG
+1: Strong experience in running and being responsible for development teams of over 50 developers and QA engineers
+1: Create, evaluate and select options for technology design;
+1: Familiarity with Service Availability practices: ITIL, Design for Operations, coded and codeless instrumentation
+1: Analysis of the required technology standards and equipment selection;
+1: Familiar with enterprise technologies: enterprise libraries, service buses, business process management systems, complex event processing systems, management systems
+1: If you are excited about all aspects of modern engineering, from writing a great code, to creating architectures, designing components, interacting with clients and delivering working system to production, then you are the kind of person we are looking for. If you enjoy freedom and responsibility, creative thinking, leading and mentoring others, then join our team of world-class developers, QA engineers, architects and managers.
+1: Produce high-quality, extensively tested, well-documented artifacts
+1: Understanding of Agile software development methodologies
+1: Up to speed with modern software engineering: version control systems, issue tracking,
+1: Knowledge of network protocols and technologies;
+1: Experience with in-memory data grids (Coherence, GigaSpaces, etc)
+1: Advanced level, 2+ years of experience in Cognos GoMobile and GoOffice and in Financial Service background
+1: Resolve engineering and organizational risks and problems
+1: Create metadata models that are aligned with BI strategies, organizational goals and objectives.
+1: We are looking for a great developer with strong technical expertise, who is interested in joining our OpenStack based Cloud project, responsible for developing a highly scalable Cloud platform based on OpenStack. As a key member of this team, you will be working in a collaborative with a team of recognized experts. This is an excellent opportunity to become a key contributor to OpenStack projects, while creating the next generation of network-centric cloud architectures.
+1: Grid Dynamics seeks a great Data Scientist to be a part of a bright engineering team that developes high tech innovative solutions for large world-leading retailers. We are developing solutions that allows enterprises to do things that just yesterday were thought to be impossible.
+1: Development and delivery of performant, scalable and robust business applications and platforms
+1: Collaboration with internal and external customers
+1: Assist with technical sales support;
+1: Proven experience in recruiting top talent, growing, motivating and retaining them
+1: Collaboration with distributed team of developers, testers, analysts (St. Petersburg and San-Francisco).
+1: Evaluate hardware/software data solutions for organizational fit and feasibility
+1: Java Developer
+1: Understanding of Unix/Linux at least on user level (bash / ssh / ps / grep etc&#8230;)
+1: Senior Software Engineer
+1: Work closely with  group of Architects,  Subject Matter Experts and  Quality Assurance engineers  to ensure full compliance with Design, Best Practices and Quality standards
+1: Work  on bleeding-edge projects for established industry leaders alongside with brilliant and motivated peers
+1: Desire to spend up to 50% of the year in business trips
+1: Run agile software development process (Scrum, Two-weeks iterations, Retrospectives, Continuous Integration/Continuous Delivery, Planning Games, Daily Stand-Up)
+1: Understanding of network protocols TCP/IP, UDP and main principles of network topologies.
+1: Experience with multi tenant architectures
+1: Understanding of general programming concepts
+1: Work in Scrum team
+1: Deep understanding of Unix-based OS concepts. Comfortable with basic usage and administration (bash / ssh / ps / grep etc&#8230;)
+1: Ability to write quality code (Bash is a must; Python or Ruby strongly preferred)
+1: Development Manager
+1: Proficiency with Endeca
+1: We are looking for experts to form core delivery team required to implement and deliver services on IBM Enterprise Service Bus. Candidate must have several years of Java Enterprise experience that he is willing to extend with dip knowledge of IBM Websphere Message Broker 7.
+1: Experience with CA Erwin Version 7.3(8) .End DBMS is SQL Server, Oracle, and Tandem SQL (use target DBMS in Erwin as Informix)
+1: Senior Client Architect
+1: Data Architect
+1: Excellent understanding of test automation principles and techniques: TDD, code coverage, instrumentation etc.
+1: Work with a major financial services client on next-generation data systems
+1: Fundamentals of programming / scripting languages possession of programming;
+1: Experience in development of distributed applications in Java (at least 5 years)
